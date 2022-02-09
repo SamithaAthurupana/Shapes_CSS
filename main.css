@@ -1,0 +1,109 @@
+h1{
+    text-align: center;
+    padding:20px 0;
+}
+
+.items{
+    height: 200px;
+    border: 1px solid gray;
+    display: flex;
+    flex-direction: column;
+}
+.bottom{
+    flex: 1;
+    border: 1px solid blue;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+/* shape 1 */
+.shape1{
+    width:100px;
+    height:100px;
+
+    background: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg") center no-repeat;
+    background-size:cover;
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+}
+/* /shape 1 */
+
+/* shape 2 */
+.shape2{
+    width:100px;
+    height:100px;
+    background: url("https://media.istockphoto.com/vectors/abstract-blurred-colorful-background-vector-id1248542684?k=20&m=1248542684&s=612x612&w=0&h=1yKiRrtPhiqUJXS_yJDwMGVHVkYRk2pJX4PG3TT4ZYM=") center no-repeat;
+    background-size:cover;
+    clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+}
+/* shape 2 */
+
+/* shape 3 */
+.shape3{
+    width:100px;
+    height:100px;
+    background: url("https://www.cherishpr.com/wp-content/uploads/2014/03/164165555-coloured-wallpapers.jpg") center no-repeat;
+    background-size:cover;
+    clip-path: polygon(25% 0%, 75% 0%, 100% 100%, 0% 100%);
+}
+/* shape 3 */
+
+/* shape 4 */
+.shape4{
+    width:100px;
+    height:100px;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoB1K0TVSbMnO0Uh41j5aYzhoBUTU1pQK1QP5ZZ1kbL1ySQdKcVp-0b0na8aRSjslfVl4&usqp=CAU") center no-repeat;
+    background-size:cover;
+    clip-path: polygon(50% 0%, 100% 40%, 80% 100%, 20% 100%, 0% 40%);
+}
+/* shape 4 */
+
+/* shape 5 */
+.shape5{
+    width:100px;
+    height:100px;
+    background: url("https://media.istockphoto.com/photos/abstract-painted-art-background-picture-id1124507971?k=20&m=1124507971&s=612x612&w=0&h=nBmLNIGL44DAv_GM55dyxhZe4iFb5YUpT7JR1RCg8u4=") center no-repeat;
+    background-size:cover;
+    clip-path: polygon(100% 0%, 80% 50%, 100% 100%, 20% 100%, 0% 50%, 20% 0%);
+}
+/* shape 5 */
+
+/* shape 6 */
+.shape6{
+    width:100px;
+    height:100px;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJoWa32tVxt5nLJq-7YXc58-HjV-XE770RnuuhtzIoZX6qNTamYXJ62FmN9TZG31UNIZ4&usqp=CAU") center no-repeat;
+    background-size:cover;
+    clip-path: polygon(40% 0%, 40% 20%, 100% 20%, 100% 80%, 40% 80%, 40% 100%,0% 50% );
+}
+/* shape 6 */
+
+/* shape 7 */
+.shape7{
+    width:100px;
+    height:100px;
+    background: url("https://bestwallpapers.in/wp-content/uploads/2018/04/abstract-pattern-colorful-4k-wallpaper-1024x683.jpg") center no-repeat;
+    background-size:cover;
+    clip-path: polygon(50% 0%, 60% 30%, 100% 30%, 70% 55%, 100% 85%, 50% 65%, 15% 100%, 30% 55%,0% 30%, 40% 30% );
+}
+/* shape 7 */
+
+/* shape 8 */
+.shape8{
+    width:100px;
+    height:100px;
+    background: url("https://img4.goodfon.com/wallpaper/nbig/4/a6/background-rainbow-colorful-colors-splash-painting-abstrac-5.jpg") center no-repeat;
+    background-size:cover;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 70%,70% 70%, 50% 100%,50% 70%,0% 70%);
+}
+/* shape 8 */
+
+/* shape 8 */
+.shape9{
+    width:100px;
+    height:100px;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzALN7M64wrU1qINj6vaEvqLJMO0ytLj9pwTximdbuFwDYyjL6r1kQi_Fksq0DLYwVPU8&usqp=CAU") center no-repeat;
+    background-size:cover;
+    /* border-radius: 100%; */
+    clip-path: circle(50% at 50% 50%)
+}
+/* shape 8 */
